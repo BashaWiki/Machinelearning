@@ -10,4 +10,5 @@
 Please find my profile in Kaggle using below link - https://www.kaggle.com/barkathbasha
 
 List of projects:
-- [Titanic Project Link](https://www.kaggle.com/c/titanic/overview)
+- [Titanic Project Link](./Machinelearning/tree/main/Titanic%20-%20Predict%20survival)
+- [NBA Player 2020 Salary](./Machinelearning/tree/main/NBA%20Player%202020%20Salary%20Prediction)
